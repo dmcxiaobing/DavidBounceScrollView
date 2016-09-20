@@ -1,11 +1,18 @@
 # DavidBounceScrollView
 ##【Android】Android开发实现带有反弹效果，仿IOS反弹scrollview详解教程
+
 作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+
 新浪微博：http://weibo.com/mcxiaobing 
+
 首先给大家看一下我们今天这个最终实现的效果图：
+
 ![这里写图片描述](http://img.blog.csdn.net/20160908095941142)
+
 这个是ios中的反弹效果。当然我们安卓中如果想要实现这种效果，
+
 感觉不会那么生硬，滚动到底部或者顶部的时候。当然
+
 使用scrollview是无法实现的。所以我们需要新建一个view继承ScrollView
 
 ```
