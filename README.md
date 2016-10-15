@@ -1,7 +1,7 @@
 # DavidBounceScrollView
 ##【Android】Android开发实现带有反弹效果，仿IOS反弹scrollview详解教程
 
-作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+作者：程序员小冰，
 
 新浪微博：http://weibo.com/mcxiaobing 
 
