@@ -3,7 +3,8 @@
 
 作者：[程序员小冰](http://blog.csdn.net/qq_21376985)
 
-新浪微博：http://weibo.com/mcxiaobing 
+[欢迎点击关注我的微博](http://weibo.com/mcxiaobing )
+
 
 首先给大家看一下我们今天这个最终实现的效果图：
 
